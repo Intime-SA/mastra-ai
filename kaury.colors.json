@@ -1,0 +1,378 @@
+[{
+  "_id": {
+    "$oid": "681aa30da7b5ab5c0e775079"
+  },
+  "spanish": "NEGRO",
+  "name": "Black",
+  "hex": "#000000",
+  "sales": 15
+},
+{
+  "_id": {
+    "$oid": "681aa30da7b5ab5c0e77507a"
+  },
+  "spanish": "BLANCO",
+  "name": "White",
+  "hex": "#FFFFFF",
+  "sales": 8
+},
+{
+  "_id": {
+    "$oid": "681aa30da7b5ab5c0e77507b"
+  },
+  "spanish": "ROJO",
+  "name": "Red",
+  "hex": "#FF0000",
+  "sales": 12
+},
+{
+  "_id": {
+    "$oid": "681aa30da7b5ab5c0e77507c"
+  },
+  "spanish": "ROSA",
+  "name": "Pink",
+  "hex": "#FFC0CB",
+  "sales": 3
+},
+{
+  "_id": {
+    "$oid": "681aa30ea7b5ab5c0e77507d"
+  },
+  "spanish": "FUCSIA",
+  "name": "Fuchsia",
+  "hex": "#FF00FF",
+  "sales": 19
+},
+{
+  "_id": {
+    "$oid": "681aa30ea7b5ab5c0e77507e"
+  },
+  "spanish": "UVA",
+  "name": "Grape",
+  "hex": "#6F2DA8",
+  "sales": 7
+},
+{
+  "_id": {
+    "$oid": "681aa30ea7b5ab5c0e77507f"
+  },
+  "spanish": "AVELLANA",
+  "name": "Hazelnut",
+  "hex": "#A67B5B",
+  "sales": 11
+},
+{
+  "_id": {
+    "$oid": "681aa30ea7b5ab5c0e775080"
+  },
+  "spanish": "LIMA",
+  "name": "Lime",
+  "hex": "#00FF00",
+  "sales": 5
+},
+{
+  "_id": {
+    "$oid": "681aa30ea7b5ab5c0e775081"
+  },
+  "spanish": "VERDE",
+  "name": "Green",
+  "hex": "#008000",
+  "sales": 14
+},
+{
+  "_id": {
+    "$oid": "681aa30ea7b5ab5c0e775082"
+  },
+  "spanish": "AZUL",
+  "name": "Blue",
+  "hex": "#0000FF",
+  "sales": 6
+},
+{
+  "_id": {
+    "$oid": "681aa30ea7b5ab5c0e775083"
+  },
+  "spanish": "MIEL",
+  "name": "Honey",
+  "hex": "#F0C05A",
+  "sales": 17
+},
+{
+  "_id": {
+    "$oid": "681aa30fa7b5ab5c0e775084"
+  },
+  "spanish": "NATURAL",
+  "name": "Natural",
+  "hex": "#F5DEB3",
+  "sales": 9
+},
+{
+  "_id": {
+    "$oid": "681aa30fa7b5ab5c0e775085"
+  },
+  "spanish": "GRIS",
+  "name": "Gray",
+  "hex": "#808080",
+  "sales": 13
+},
+{
+  "_id": {
+    "$oid": "681aa30fa7b5ab5c0e775086"
+  },
+  "spanish": "NUDE",
+  "name": "Nude",
+  "hex": "#E3BC9A",
+  "sales": 4
+},
+{
+  "_id": {
+    "$oid": "681aa30fa7b5ab5c0e775087"
+  },
+  "spanish": "FRESA",
+  "name": "Strawberry",
+  "hex": "#FC5A8D",
+  "sales": 18
+},
+{
+  "_id": {
+    "$oid": "681aa30fa7b5ab5c0e775088"
+  },
+  "spanish": "AMARILLO",
+  "name": "Yellow",
+  "hex": "#FFFF00",
+  "sales": 2
+},
+{
+  "_id": {
+    "$oid": "681aa30fa7b5ab5c0e775089"
+  },
+  "spanish": "BORDO",
+  "name": "Burgundy",
+  "hex": "#800020",
+  "sales": 16
+},
+{
+  "_id": {
+    "$oid": "681aa30fa7b5ab5c0e77508a"
+  },
+  "spanish": "JUNGLE",
+  "name": "Jungle Green",
+  "hex": "#29AB87",
+  "sales": 20
+},
+{
+  "_id": {
+    "$oid": "681aa310a7b5ab5c0e77508b"
+  },
+  "spanish": "ANIMAL",
+  "name": "Animal Print",
+  "hex": "#C68E17",
+  "sales": 1
+},
+{
+  "_id": {
+    "$oid": "681aa310a7b5ab5c0e77508c"
+  },
+  "spanish": "HAWAII",
+  "name": "Hawaii Blue",
+  "hex": "#00A4CC",
+  "sales": 10
+},
+{
+  "_id": {
+    "$oid": "681aa310a7b5ab5c0e77508d"
+  },
+  "spanish": "CUBA",
+  "name": "Cuba Blue",
+  "hex": "#0D5F8A",
+  "sales": 11
+},
+{
+  "_id": {
+    "$oid": "681aa310a7b5ab5c0e77508e"
+  },
+  "spanish": "PRINT",
+  "name": "Print Pattern",
+  "hex": "#5F5F5F",
+  "sales": 3
+},
+{
+  "_id": {
+    "$oid": "681aa310a7b5ab5c0e77508f"
+  },
+  "spanish": "BATIK",
+  "name": "Batik",
+  "hex": "#9B2335",
+  "sales": 14
+},
+{
+  "_id": {
+    "$oid": "681aa310a7b5ab5c0e775090"
+  },
+  "spanish": "FRAMBUESA",
+  "name": "Raspberry",
+  "hex": "#E30B5C",
+  "sales": 5
+},
+{
+  "_id": {
+    "$oid": "681aa311a7b5ab5c0e775091"
+  },
+  "spanish": "AFRICA",
+  "name": "Africa Brown",
+  "hex": "#8B4513",
+  "sales": 9
+},
+{
+  "_id": {
+    "$oid": "681aa311a7b5ab5c0e775092"
+  },
+  "spanish": "AMAZONAS",
+  "name": "Amazon Green",
+  "hex": "#3B7A57",
+  "sales": 12
+},
+{
+  "_id": {
+    "$oid": "681aa311a7b5ab5c0e775093"
+  },
+  "spanish": "TURQUESA",
+  "name": "Turquoise",
+  "hex": "#40E0D0",
+  "sales": 6
+},
+{
+  "_id": {
+    "$oid": "681aa311a7b5ab5c0e775094"
+  },
+  "spanish": "FLAMINGO",
+  "name": "Flamingo Pink",
+  "hex": "#FC8EAC",
+  "sales": 17
+},
+{
+  "_id": {
+    "$oid": "681aa311a7b5ab5c0e775095"
+  },
+  "spanish": "GRAFFITI",
+  "name": "Graffiti",
+  "hex": "#702963",
+  "sales": 8
+},
+{
+  "_id": {
+    "$oid": "681aa311a7b5ab5c0e775096"
+  },
+  "spanish": "ARABESCO",
+  "name": "Arabesque",
+  "hex": "#B8860B",
+  "sales": 13
+},
+{
+  "_id": {
+    "$oid": "681aa311a7b5ab5c0e775097"
+  },
+  "spanish": "LILA",
+  "name": "Lilac",
+  "hex": "#C8A2C8",
+  "sales": 4
+},
+{
+  "_id": {
+    "$oid": "681aa312a7b5ab5c0e775098"
+  },
+  "spanish": "NARANJA",
+  "name": "Orange",
+  "hex": "#FFA500",
+  "sales": 18
+},
+{
+  "_id": {
+    "$oid": "681aa312a7b5ab5c0e775099"
+  },
+  "spanish": "COLORFUL",
+  "name": "Colorful",
+  "hex": "#FF1493",
+  "sales": 2
+},
+{
+  "_id": {
+    "$oid": "681aa312a7b5ab5c0e77509a"
+  },
+  "spanish": "NEON",
+  "name": "Neon",
+  "hex": "#39FF14",
+  "sales": 16
+},
+{
+  "_id": {
+    "$oid": "681aa312a7b5ab5c0e77509b"
+  },
+  "spanish": "RAYAS",
+  "name": "Stripes",
+  "hex": "#4682B4",
+  "sales": 7
+},
+{
+  "_id": {
+    "$oid": "681aa312a7b5ab5c0e77509c"
+  },
+  "spanish": "REPTIL",
+  "name": "Reptile",
+  "hex": "#728C00",
+  "sales": 15
+},
+{
+  "_id": {
+    "$oid": "681aa312a7b5ab5c0e77509d"
+  },
+  "spanish": "SWAN",
+  "name": "Swan White",
+  "hex": "#F0F0F0",
+  "sales": 19
+},
+{
+  "_id": {
+    "$oid": "681aa313a7b5ab5c0e77509e"
+  },
+  "spanish": "TROPICAL",
+  "name": "Tropical",
+  "hex": "#FF7F50",
+  "sales": 1
+},
+{
+  "_id": {
+    "$oid": "681aa313a7b5ab5c0e77509f"
+  },
+  "spanish": "BORRAVINO",
+  "name": "Wine",
+  "hex": "#722F37",
+  "sales": 10
+},
+{
+  "_id": {
+    "$oid": "681aa313a7b5ab5c0e7750a0"
+  },
+  "spanish": "VIOLETA",
+  "name": "Violet",
+  "hex": "#8F00FF",
+  "sales": 20
+},
+{
+  "_id": {
+    "$oid": "686c6316c9adba93e2069db8"
+  },
+  "spanish": "PINK FLOWER",
+  "name": "Pink",
+  "hex": "#FFC0CB",
+  "sales": 3
+},
+{
+  "_id": {
+    "$oid": "68745ec829c1442dfb66c515"
+  },
+  "spanish": "MORADO",
+  "name": "morad",
+  "hex": "#B255E5",
+  "sales": 12
+}]
