@@ -7,5 +7,5 @@ if (!process.env.OPENAI_API_KEY) {
 
 export const mastra = new Mastra({
   name: "payment-analyst",
-  llm: openai("gpt-4o"), // Usando el modelo más económico
-})
+  llm: openai("gpt-4o"),
+} as any)
