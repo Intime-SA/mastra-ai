@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "68856680cc91255691a4bffc"
+  },
+  "category": "casas",
+  "operationType": "alquiler",
+  "address": "Marcelo T. de Alvear 669, Mar del Plata",
+  "province": "Capital Federal",
+  "city": "La Plata",
+  "neighborhood": "Casa Rosada",
+  "hideExactAddress": false,
+  "photos": [
+    "photo-placeholder.jpg",
+    "photo-placeholder.jpg"
+  ],
+  "totalSurface": 75,
+  "coveredSurface": 70,
+  "rooms": 3,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "parkingSpaces": 1,
+  "title": "Depto 3 amb, excelente ubicación",
+  "description": "Hermoso departamento en el centro de la ciudad",
+  "videoUrl": "https://www.youtube.com/watch?v=uq2e7koxuaI",
+  "price": 120000,
+  "currency": "USD",
+  "expenses": 0,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-07-26T23:36:32.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T23:36:32.054Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68856abb8f2f5be7e6317d98"
+  },
+  "category": "cocheras",
+  "operationType": "alquiler-temporario",
+  "address": "Marcelo T. de Alvear 669, Mar del Plata",
+  "province": "Buenos Aires Interior",
+  "city": "General Pueyrredón",
+  "neighborhood": "Zona Norte",
+  "hideExactAddress": false,
+  "photos": [
+    "photo-placeholder.jpg",
+    "photo-placeholder.jpg",
+    "photo-placeholder.jpg"
+  ],
+  "totalSurface": 75,
+  "coveredSurface": 70,
+  "rooms": 3,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "parkingSpaces": 1,
+  "title": "Depto 3 amb, excelente ubicación",
+  "description": "Hermoso departamento en el centro de la ciudad",
+  "videoUrl": "https://www.youtube.com/watch?v=Gpsm5HVXZ7I",
+  "price": 120000,
+  "currency": "USD",
+  "expenses": 62000,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-07-26T23:54:35.570Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T23:54:35.570Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68856cbe8f2f5be7e6317d99"
+  },
+  "category": "cocheras",
+  "operationType": "alquiler-temporario",
+  "address": "Marcelo T. de Alvear 669, Mar del Plata",
+  "province": "Buenos Aires Interior",
+  "city": "General Pueyrredón",
+  "neighborhood": "Centro",
+  "hideExactAddress": false,
+  "photos": [
+    "photo1.jpg",
+    "photo2.jpg",
+    "photo3.jpg"
+  ],
+  "totalSurface": 751,
+  "coveredSurface": 270,
+  "rooms": 13,
+  "bedrooms": 22,
+  "bathrooms": 12,
+  "parkingSpaces": 12,
+  "title": "CASA RODANTE",
+  "description": "Hermoso departamento en la parte mas alta, con vista al mar y excelente ubicación. Cuenta con todos los servicios y está completamente equipado. Ideal para inversión o vivienda permanente.",
+  "videoUrl": "https://www.youtube.com/watch?v=exampleasd",
+  "price": 60000,
+  "currency": "USD",
+  "expenses": 8888,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-07-27T00:03:10.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:03:10.645Z"
+  }
+}]

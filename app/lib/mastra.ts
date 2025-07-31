@@ -6,6 +6,6 @@ if (!process.env.OPENAI_API_KEY) {
 }
 
 export const mastra = new Mastra({
-  name: "color-analysis-agent",
-  llm: openai("gpt-4o-mini"), // Usando el modelo más económico
+  name: "payment-analyst",
+  llm: openai("gpt-4o"), // Usando el modelo más económico
 })
